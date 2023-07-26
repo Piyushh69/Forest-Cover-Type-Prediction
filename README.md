@@ -19,6 +19,10 @@ The dataset used in this project is the "Forest CoverType" dataset, obtained fro
 ## Results
 The accuracy achieved by the selected classifier (KNN) is 96.52%. The analysis also revealed significant patterns and trends in the dataset, enabling us to make accurate predictions of forest cover types based on the given variables.
 
+<img width="431" alt="image" src="https://github.com/Piyushh69/Forest-Cover-Type-Prediction/assets/87930262/b0d3ed60-ec5f-47c1-9bfe-717051b39f4d">
+
+fig- Accuracy rate
+
 ## Future Work
 In future work, we plan to explore advanced feature engineering techniques, try ensemble methods, and fine-tune hyperparameters to improve the model's performance further. Additionally, incorporating remotely sensed data and additional environmental features may enhance prediction accuracy.
 
